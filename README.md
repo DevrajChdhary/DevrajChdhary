@@ -1,4 +1,4 @@
-![68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966](https://user-images.githubusercontent.com/90049773/203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a.gif)
+![68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966]([https://user-images.githubusercontent.com/90049773/203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a.gif](https://media2.giphy.com/media/PiuL0MyzhlQv9fkNrY/200.webp?cid=ecf05e472syrsa70dsj80ml7tiqkm832rflj7h0i7trsgso0&ep=v1_gifs_search&rid=200.webp&ct=g))
 <h1 align="center">Hi 👋, I'm Devraj Kohli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
